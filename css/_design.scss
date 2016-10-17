@@ -61,7 +61,7 @@ h2.subTitle:after, h1.noSubtitle:after{
 .paralaxText blockquote:before, .paralaxText blockquote:after {
   color:#fff;
 }
-#home, .paralaxSlice1, .paralaxSlice2, .paralaxSlice3, .paralaxSlice4, .paralaxSlice5, .paralaxSlice6, .paralaxSlice7, .paralaxSlice8 {
+#home, .paralaxSlice1, .paralaxSlice2, .paralaxSlice3, .paralaxSlice4, .paralaxSlice5 {
   background-color:$main-color;
 }
 #home {
@@ -82,15 +82,7 @@ h2.subTitle:after, h1.noSubtitle:after{
 .paralaxSlice5 {
   background-image: $paralax-slice-5;
 }
-.paralaxSlice6 {
-  background-image: $paralax-slice-6;
-}
-.paralaxSlice7 {
-  background-image: $paralax-slice-7;
-}
-.paralaxSlice8 {
-  background-image: $paralax-slice-8;
-}
+
 .paralaxText blockquote, .paralaxText h1, .paralaxText h2, .paralaxText h3, .paralaxText p, .paralaxText i{
   color:#fff;
 }

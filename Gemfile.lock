@@ -26,7 +26,6 @@ GEM
     jekyll-haml (0.1.2)
       haml (>= 3.0.0)
       jekyll (>= 0.10.0)
-    jekyll-multiple-languages-plugin (1.2.9)
     jekyll-sass (1.2.2)
       colorator (~> 0.1)
       jekyll (>= 0.10.0)
@@ -66,6 +65,11 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-haml
-  jekyll-multiple-languages-plugin
   jekyll-sass
   rack-jekyll
+
+RUBY VERSION
+   ruby 2.3.1p112
+
+BUNDLED WITH
+   1.13.5

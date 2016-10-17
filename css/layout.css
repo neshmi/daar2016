@@ -665,7 +665,7 @@ body#fullScreen #mainHeader{display:none;}
 #mapWrapper{ height:350px; }
 
 #homeFullScreen {
-	background-image: url('../images/hemesferic.jpg');
+	background-image: url('../images/banner.jpg');
 	/*background-image: url('../images/theme-pics/paralax-1.jpg');*/
 	height:100%;
 }
